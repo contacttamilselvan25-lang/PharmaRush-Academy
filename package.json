@@ -1,0 +1,12 @@
+{
+  "name": "pharma-rush",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A lightweight, offline pharmacy educational game.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test && node tests/data/validate.mjs",
+    "test:unit": "node --test",
+    "validate": "node tests/data/validate.mjs"
+  }
+}
