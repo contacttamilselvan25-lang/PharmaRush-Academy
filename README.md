@@ -1,6 +1,6 @@
-# 🏥 PHARMA RUSH
+# 🎮 PharmaRush — Interactive 2D Clinical Pharmacy Dispensing & Pharmacotherapy Simulator
 
-> **Play. Practice. Learn. Become the Best Pharmacist.**
+> **Play. Practice. Learn. Master Clinical Pharmacy.**
 
 A lightweight, offline-first 2D pharmacy simulation and educational game. Run your own pharmacy, serve customers, make real pharmacy decisions, and grow from a *Junior Trainee* into a *Pharma Master* — all while building the clinical instincts needed for B.Pharm / D.Pharm / PharmD exams and GPAT.
 
